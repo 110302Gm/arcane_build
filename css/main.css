@@ -149,7 +149,7 @@ footer {
 
 
 .lightbox { background-image: url('../images/mel_pic.jpg') ; }
-.lightbox2 { background-image: url('../images/cat_cute_pic.webp') ; }
+.lightbox { background-image: url('../images/cat_cute_pic.webp') ; }
 
 .lightbox_close {
     position: relative;
